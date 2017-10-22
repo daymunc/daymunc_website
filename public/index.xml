@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About DAYMUNC on Daymunc Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content in About DAYMUNC on Daymunc Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Oct 2017 15:48:42 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SIMSEC</title>
+      <link>http://example.org/committees/simsec/</link>
+      <pubDate>Sun, 15 Oct 2017 15:48:42 -0400</pubDate>
+      
+      <guid>http://example.org/committees/simsec/</guid>
+      <description>UNESCO Committee Topics:
+Committee Documents: Background Guide for DAYMUNC is available here
+Staff: If you are interested in applying for a staff position for DAYMUNC, please contact the Secretary General.
+strong Example Position Paper:&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>UNESCO</title>
+      <link>http://example.org/committees/unesco/</link>
+      <pubDate>Sun, 15 Oct 2017 15:48:42 -0400</pubDate>
+      
+      <guid>http://example.org/committees/unesco/</guid>
+      <description>UNESCO Committee Topics:
+Committee Documents: Background Guide for DAYMUNC is available here
+Staff: If you are interested in applying for a staff position for DAYMUNC, please contact the Secretary General.
+strong Example Position Paper:&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Attend Daymunc</title>
+      <link>http://example.org/attend/</link>
+      <pubDate>Sun, 15 Oct 2017 13:34:25 -0400</pubDate>
+      
+      <guid>http://example.org/attend/</guid>
+      <description>Attendance Information If you are interested in attending DAYMUNC XXIII, email the Secretary General at #{contact[&amp;ldquo;Secretary General&amp;rdquo;]}.
+DAYMUNC registration fee: Below are the following instructions by Sinclair Community College’s (SCC) Office of the Bursar on how payments are to be made:
+ Sinclair requires payment of deposits or full delegate payments directly to the College Bursar’s office and John Coyle assists us with this process. If you have any questions about payment of DAYMUNC Delegate fees, you may contact Mr.</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>http://example.org/awards/</link>
+      <pubDate>Sat, 14 Oct 2017 11:06:57 -0400</pubDate>
+      
+      <guid>http://example.org/awards/</guid>
+      <description>DAYMUNC Award Guidelines DAYMUNC offers awards to delegates that demonstrate exemplary diplomacy, negotiation and speaking skills, technical research capabilities, and facilitate committee. These awards are for individual delegates only; team awards are not given. An award is also presented for Outstanding Position Paper, which is submitted prior to the conference.
+Award Structure Each committee will present 1 outstanding delegate award, 1 distinguished delegate award, and 3 honorable mentions at closing ceremony.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Sat, 14 Oct 2017 11:06:57 -0400</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description> Contact Information Mailing Address:  ATTN: Kathy &amp;amp; Jenny Sooy 444 West Third Street Dayton, OH 45402-1460
+ DAYMUNC Contact Information </description>
+    </item>
+    
+  </channel>
+</rss>

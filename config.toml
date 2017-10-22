@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Daymunc Site"
+sectionPagesMenu = "sidebar"
+
+
+[params.variables]
+	numeral = "XXIII"
+	year = "Thing"
+	committee_short = ["UNICEF", "SC", "SIMSEC", "UNDP"]
+
+

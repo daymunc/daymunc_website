@@ -1,0 +1,10 @@
+<table id = "CountryAssignmentsTable" class = "table table-striped table-bordered">
+    <thead>
+    <tr>
+        <th>Member State</th>
+        {{ range .Site.Params.variables.committee_short }}
+        <th> {{ . }} </th>
+        {{ end }}
+    </tr>
+    </thead>
+</table>

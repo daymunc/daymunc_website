@@ -1,0 +1,19 @@
+ul.navbar-nav.mr-auto role="navigation"
+  {{ $currentPage := . }}
+  {{ range .Site.Menus.sidebar }}
+    {{ if .HasChildren }}
+      li.nav-item data-target=#{{ .Name }} data-toggle="collapse" aria-expanded="true" aria-controls="{{ .Name }}"
+        a.nav-link {{ .Name }}
+      ul.navbar-nav.mr-auto id={{ .Name }} role="navigation"
+        {{ range .Children }}
+          li.nav-item
+            a.nav-link href={{ .URL }} {{ .Name }}
+        {{ end }}
+    {{ else if .Name }}
+      li.nav-item
+        a.nav-link href={{ .URL }}
+          {{ .Pre }}
+          span &nbsp; {{ .Name }}
+    {{ end }}
+  {{ end }}
+
