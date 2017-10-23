@@ -15,8 +15,8 @@ html lang=en-us
     link href="//cdn.datatables.net/1.10.16/css/dataTables.bootstrap4.min.css" rel="stylesheet"
     body
       nav.navbar.navbar-light.bg-light
-        span.navbar-brand DAYMUNC XXXIII
-        span.navbar-brand.pull-right Sept. 9-10, 2010
+        span.navbar-brand DAYMUNC {{ .Site.Params.variables.numeral }}
+        span.navbar-brand.pull-right {{ .Site.Params.variables.daymunc_date }}
         button.navbar-toggler type="button" data-toggle="collapse" data-target="#sidebar_menu" aria-controls="sidebar_menu" aria-expanded="false" aria-label="Toggle navigation"
           span.navbar-toggler-icon
         #sidebar_menu.collapse.navbar-collapse
@@ -41,29 +41,7 @@ html lang=en-us
     {{ if eq .Title "Country Assignments" }}
       script src=https:////cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js
       = javascript
-        console.log("hello");
-        var table_data = [
-        [ "Tiger Nixon", "System Architect", "$3,120", "2011/04/25", "Edinburgh", 5421 ],
-        [ "Garrett Winters", "Director", "$8,422", "2011/07/25", "Edinburgh", 8422 ]
-        ];
-        console.log(table_data);
-        //$("#CountryAssignmentsTable").DataTable( {
-        //  data: table_data
-        //});
-        $.getJSON('/assets/CountryAssignments.json', function(dataSet) {
-          console.log(dataSet);
-          $('#CountryAssignmentsTable').DataTable( {
-            "data": dataSet,
-            "columns": [
-              { "data": "Country" },
-              { "data": "UNDP" },
-              { "data": "UNICEF" },
-              { "data": "SC" },
-              { "data": "SIMSEC" }
-            ],
-            "paging": false
-          });
-        });
+        $('#CountryAssignmentsTable').DataTable({"paging": false});
     {{ end }}
     = javascript
       $("#menu").metisMenu();

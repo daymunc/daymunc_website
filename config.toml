@@ -1,12 +1,15 @@
-baseURL = "http://example.org/"
+baseURL = "http://daymunc.org/"
 languageCode = "en-us"
-title = "Daymunc Site"
+title = "DAYMUNC"
 sectionPagesMenu = "sidebar"
-
 
 [params.variables]
 	numeral = "XXIII"
-	year = "Thing"
-	committee_short = ["UNICEF", "SC", "SIMSEC", "UNDP"]
+	year = "2018"
+	committee_short = ["UNDP", "UNICEF", "SC", "SIMSEC"]
+	sg_email = "angelicamloyd@gmail.com"
+	daymunc_date = "Jan. 5, 2018"
 
-
+[params.carousel]
+	url = ["images/DAYMUNC.PaperAward.Fazekas.JPG", "images/ECOSOC.Caucus.Fazekas.jpg", "images/SC.Award.Fazekas.JPG"]
+	caption = ["t1", "t2", "t3"]

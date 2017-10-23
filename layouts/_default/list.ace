@@ -1,3 +1,4 @@
 = content main
-  article
-    {{ .Content }}
+  .container.py-3
+    article
+      {{ .Content }}

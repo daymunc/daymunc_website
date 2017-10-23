@@ -10,10 +10,10 @@ identifier: "about"
 
 # Attendance Information
 
-If you are interested in attending DAYMUNC XXIII, email the Secretary General at
+If you are interested in attending DAYMUNC {{< variables numeral >}}, email the Secretary General at
 
 ## DAYMUNC registration fee:
-Below are the following instructions by Sinclair Community College’s (SCC) Office of the Bursar on how payments are to be made:
+Below are the following instructions by [Sinclair Community College’s](http://www.sinclair.edu/) (SCC) Office of the Bursar on how payments are to be made:
 
 > Sinclair requires payment of deposits or full delegate payments directly to the College Bursar’s office and John Coyle assists us with this process.
 > If you have any questions about payment of DAYMUNC Delegate fees, you may contact Mr. Coyle at 937-512-5343.
