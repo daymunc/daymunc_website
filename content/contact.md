@@ -5,7 +5,7 @@ draft: false
 menu: "sidebar"
 ---
 
-# Contact Information
+## Contact Information
 
 
 ### Mailing Address:
@@ -13,4 +13,6 @@ menu: "sidebar"
 > 444 West Third Street
 > Dayton, OH 45402-1460
 
-## DAYMUNC Contact Information
+### DAYMUNC Contact Information
+
+Secretary General: {{< variables sg_email >}}

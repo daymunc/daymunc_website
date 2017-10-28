@@ -5,6 +5,7 @@ draft: false
 menu: "sidebar"
 ---
 
+## Conference Schedule
 Conference will be held: __{{< variables daymunc_date >}}__
 
-The schedule for DAYMUNC {{< variables year >}} can be found [here](#).
+The schedule for DAYMUNC {{< variables year >}} can be found [here](resources/DAYMUNC_2017/DAYMUNC XXIV Schedule.pdf).

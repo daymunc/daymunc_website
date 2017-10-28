@@ -2,14 +2,16 @@ baseURL = "http://daymunc.org/"
 languageCode = "en-us"
 title = "DAYMUNC"
 sectionPagesMenu = "sidebar"
+publishDir = "docs"
 
 [params.variables]
-	numeral = "XXIII"
+	numeral = "XXV"
 	year = "2018"
 	committee_short = ["UNDP", "UNICEF", "SC", "SIMSEC"]
 	sg_email = "angelicamloyd@gmail.com"
 	daymunc_date = "Jan. 5, 2018"
+	webmaster_email = "matt.piekenbrock@gmail.com"
 
 [params.carousel]
 	url = ["images/DAYMUNC.PaperAward.Fazekas.JPG", "images/ECOSOC.Caucus.Fazekas.jpg", "images/SC.Award.Fazekas.JPG"]
-	caption = ["t1", "t2", "t3"]
+	caption = ["", "", ""]
