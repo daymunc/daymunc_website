@@ -28,7 +28,9 @@ html lang=en-us
             = include partials/sidebar.html .
           // Main Content
           main.col-md-10.main.p-0 role=main
-            = include partials/carousel_banner.html .
+            {{if .IsHome}}
+              = include partials/carousel_banner.html .
+            {{ end }}
             .px-2
               = yield main
     script src=https://code.jquery.com/jquery-3.2.1.slim.min.js integrity=sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN crossorigin=anonymous

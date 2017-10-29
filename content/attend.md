@@ -6,7 +6,7 @@ menu:
     sidebar:
         pre: "<i class='fa fa-university'></i>"
 identifier: "about"
-url: /attend.html
+url: attend.html
 ---
 
 ## Attendance Information
