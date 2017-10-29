@@ -5,12 +5,12 @@ html lang=en-us
     meta name=viewport content="width=device-width initial-scale=1 shrink-to-fit=no"
     meta name=description content=""
     link rel=stylesheet href=https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css integrity=sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M crossorigin=anonymous
-    link href={{ "css/carousel.css" | relURL }} rel=stylesheet
-    link href={{ "css/docs.min.css" | relURL }} rel=stylesheet
-    link href={{ "css/font-awesome.min.css" | relURL }} rel=stylesheet
-    link href={{ "css/bootstrap-reboot.css" | relURL }} rel=stylesheet
-    link href={{ "css/sidebar.css" | relURL }} rel=stylesheet
-    link href={{ "css/offcanvas.css" | relURL }} rel=stylesheet
+    link href={{ "css/carousel.css" | absURL }} rel=stylesheet
+    link href={{ "css/docs.min.css" | absURL }} rel=stylesheet
+    link href={{ "css/font-awesome.min.css" | absURL }} rel=stylesheet
+    link href={{ "css/bootstrap-reboot.css" | absURL }} rel=stylesheet
+    link href={{ "css/sidebar.css" | absURL }} rel=stylesheet
+    link href={{ "css/offcanvas.css" | absURL }} rel=stylesheet
     link href="//cdnjs.cloudflare.com/ajax/libs/metisMenu/2.7.0/metisMenu.min.css" rel="stylesheet"
     link href="//cdn.datatables.net/1.10.16/css/dataTables.bootstrap4.min.css" rel="stylesheet"
     body
@@ -38,7 +38,7 @@ html lang=en-us
     script src=https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js integrity=sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1 crossorigin=anonymous
     script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js
     script src=https://cdnjs.cloudflare.com/ajax/libs/metisMenu/2.7.0/metisMenu.min.js
-    script src={{ "js/offcanvas.js" | relURL }}
+    script src={{ "js/offcanvas.js" | absURL }}
     script src=https:////cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js
     {{ if eq .Title "Country Assignments" }}
       script src=https:////cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js
