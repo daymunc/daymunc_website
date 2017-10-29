@@ -14,3 +14,12 @@ var excel2json = require('gulp-excel2json');
 
 convertExcel = require('excel-as-json').processFile;
 convertExcel('static/assignments/CountryAssignments.xlsx', 'static/assets/CountryAssignments.json');
+
+
+const imagemin = require('gulp-imagemin');
+
+gulp.task('minify_images', () =>
+	gulp.src('static/images/original/*')
+		.pipe(imagemin())
+		.pipe(gulp.dest('static/images/minified'))
+);
