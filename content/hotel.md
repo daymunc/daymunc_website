@@ -2,10 +2,14 @@
 title: "Hotel"
 date: 2017-10-28T16:52:00-04:00
 draft: false
-menu: "sidebar"
+menu:
+    sidebar:
+        pre: "<i class='fa fa-hotel'></i>"
+url: /hotel.html
 ---
 
 ## Hotel Reservations
+---
 Once again this year we have reserved rooms at the Marriott University of Dayton near the University of Dayton campus.
 The room rate per night is $98.00.  Although breakfast is not included there is a full scale restaurant and snack area to purchase reasonably priced meals, snacks, and beverages.
 Also, breakfast items will be provided in the morning during the conference.

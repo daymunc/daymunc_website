@@ -3,9 +3,11 @@ ul.nav.navbar-nav.navbar-collapse role="navigation"
     {{ $currentPage := . }}
     {{ range .Site.Menus.sidebar }}
       {{ if .HasChildren }}
-        li.nav-item data-target=#{{ .Name }} data-toggle="collapse" aria-expanded="true" aria-controls="{{ .Name }}"
-          a.list-group-item.list-group-item-action {{ .Name }}
-        ul.list-group.collapse.show.navbar-nav id={{ .Name }} role="navigation"
+        li.nav-item
+          a.list-group-item.list-group-item-action href=".multi-collapse" data-toggle="collapse" aria-expanded="true" aria-controls="{{ .Name }}"
+            i.fa.fa-angle-double-down
+            | &nbsp; {{ .Name }}
+        ul.list-group.navbar-nav.collapse.multi-collapse.show id={{ .Name }}
           {{ range .Children }}
             a.list-group-item.list-group-item-action href={{ .URL }} {{ .Name }}
           {{ end }}

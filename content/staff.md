@@ -2,10 +2,11 @@
 title: "Staff"
 date: 2017-10-28T16:58:39-04:00
 draft: true
-menu: "sidebar"
+url: /staff.html
 ---
 
 ## DAYMUNC Staff Information
+---
 
 ### Message from the Secretary General
 Hello, my name is Samantha Hall and I am the Secretary General for DAYMUNC XXIII.
@@ -31,6 +32,7 @@ If you are interested in working as staff for DAYMUNC, please contact the Secret
 | January 23, 2016	| One Day Simulation |
 | January 22, 2016	| Position Papers DUE by Midnight |
 | Feb. 5-6	| DAYMUNC XXIII |
+
 
 We try to emulate the rules and practices of NMUN.
 DAYMUNC is above all a learning conference - we are here to have fun, learn something about international affairs and UN procedure, and to meet and socialize with students from other schools.

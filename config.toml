@@ -13,5 +13,6 @@ publishDir = "docs"
 	webmaster_email = "matt.piekenbrock@gmail.com"
 
 [params.carousel]
-	url = ["images/DAYMUNC.PaperAward.Fazekas.JPG", "images/ECOSOC.Caucus.Fazekas.jpg", "images/SC.Award.Fazekas.JPG"]
+	url = ["images/ECOSOC.Voting.Fazekas.jpg", "images/HABITAT.ResRevisions.Fazekas.jpg", "images/ECOSOC.Award1.Fazekas.jpg"]
 	caption = ["", "", ""]
+

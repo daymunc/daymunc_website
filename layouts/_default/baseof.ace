@@ -43,5 +43,3 @@ html lang=en-us
       = javascript
         $('#CountryAssignmentsTable').DataTable({"paging": false});
     {{ end }}
-    = javascript
-      $("#menu").metisMenu();

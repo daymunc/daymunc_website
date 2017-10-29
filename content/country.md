@@ -2,15 +2,18 @@
 title: "Country Assignments"
 date: 2017-10-14T11:06:57-04:00
 draft: false
-menu: "sidebar"
+menu:
+    sidebar:
+        pre: "<i class='fa fa-globe'></i>"
+url: /country.html
 ---
 
-# DAYMUNC Country Assignments
+## DAYMUNC Country Assignments
+---
 We are accepting Country Assignments starting November 13th to November 19th (early preference submission). Country Assignments
 can absolutely change after the early preference submission deadline.
 
 ### Country Assignment Rules:
-
 - If you are attending NMUN, and we have your team’s country assignment, your delegation will have special preference for that country. Meaning your delegates are guaranteed that country for committees. (For example, if your delegation is representing the United Kingdom at NMUN. Your team size is 20. 4 of your delegates will be representing United Kingdom at DAYMUNC)
 - Trading Country Assignments between schools is allowed and encouraged. You are more than welcome to begin the trade process between delegations and have both delegations send the Secretary-General an email confirming the trade. The Secretary-General can also help with this process by facilitating the conversation or providing contact information.
 - As long as there are open slots and your team has enough delegates, you may request for more Country Assignments. Model UN teams fluctuate throughout the year; thus it is perfectly acceptable to withdraw or request Assignments.

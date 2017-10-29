@@ -1,4 +1,4 @@
-#myCarousel.carousel.slide data-ride=carousel
+#myCarousel.carousel.slide data-ride=carousel interval=3000
   ol.carousel-indicators
     {{ range $i, $url := .Site.Params.Carousel.images }}
       {{ if eq $i 1 }}
@@ -11,15 +11,15 @@
     {{ $captions := .Site.Params.Carousel.caption }}
     {{ $urls := .Site.Params.Carousel.url }}
     {{ range $i, $image := $urls }}
-      {{ if eq $i 1 }}
+      {{ if eq $i 0 }}
         .carousel-item.active
-          img src="{{ $image | relURL }}" alt="First slide" style="object-fit: contain;"
+          img src="{{ $image | relURL }}" alt=""
           .container
             .carousel-caption.d-none.d-md-block
               | {{ index $captions $i }}
       {{ else }}
         .carousel-item
-          img src="{{ $image | relURL }}" alt="First slide" style="object-fit: contain;"
+          img src="{{ $image | relURL }}" alt=""
           .container
             .carousel-caption.d-none.d-md-block
               | {{ index $captions $i }}

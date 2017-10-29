@@ -2,7 +2,10 @@
 title: "Position Papers"
 date: 2017-10-22T16:57:24-04:00
 draft: false
-menu: "sidebar"
+menu:
+    sidebar:
+        pre: "<i class='fa fa-file-text'></i>"
+url: /positionpapers.html
 ---
 
 {{< jumbo title="Position Paper Submission Procedure and Deadline"

@@ -2,10 +2,14 @@
 title: "Directions"
 date: 2017-10-22T16:57:24-04:00
 draft: false
-menu: "sidebar"
+menu:
+    sidebar:
+        pre: "<i class='fa fa-map'></i>"
+url: /directions.html
 ---
 
-# Getting to DAYMUNC
+## Getting to DAYMUNC
+---
 
 The {{< variables year >}} Dayton Model United Nations Conference (DAYMUNC {{< variables numeral >}}) will be held at:
 
