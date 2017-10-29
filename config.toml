@@ -1,4 +1,4 @@
-baseURL = "http://daymunc.org/"
+baseURL = "daymunc_website"
 languageCode = "en-us"
 title = "DAYMUNC"
 sectionPagesMenu = "sidebar"
