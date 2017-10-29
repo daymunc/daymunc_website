@@ -2,7 +2,7 @@
 title: "Staff"
 date: 2017-10-28T16:58:39-04:00
 draft: true
-url: /staff.html
+url: staff.html
 ---
 
 ## DAYMUNC Staff Information
@@ -13,7 +13,6 @@ Hello, my name is Samantha Hall and I am the Secretary General for DAYMUNC XXIII
 I am currently a senior at Wright State University, majoring in International Studies with a focus in Diplomacy and Peace, and minoring in Political Science.
 I have been involved in Model UN for 3 years now, and have participated in both DAYMUNC and NMUN in the past.
 It is a honor to be Secretary General for DAYMUNC and my goal for DAYMUNC XXIII is to make it an enjoyable conference, where all delegates can learn from each other and the conference itself.
-Currently, DAYMUNC XXIII is still in its early stages, thus I am open to any suggestions on improving the site or the conference itself.
 If you have any questions, comments, and concerns, please contact me at the new Secretary General email address that is located in the Contact Us section. Thank you and I look forward to working with all of you!
 
 ### About the Staff

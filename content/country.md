@@ -5,6 +5,7 @@ draft: false
 menu:
     sidebar:
         pre: "<i class='fa fa-globe'></i>"
+url: country.html
 ---
 
 ## DAYMUNC Country Assignments

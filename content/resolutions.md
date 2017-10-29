@@ -5,7 +5,7 @@ draft: false
 menu:
     sidebar:
         pre: "<i class='fa fa-info-circle'></i>"
-url: /resolutions.html
+url: resolutions.html
 ---
 
 ## Resolution Guide

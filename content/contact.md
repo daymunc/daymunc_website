@@ -5,6 +5,7 @@ draft: false
 menu:
     sidebar:
         pre: "<i class='fa fa-envelope-o'></i>"
+url: contact.html
 ---
 
 ## Contact Information

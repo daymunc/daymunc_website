@@ -2,7 +2,7 @@
 title: "Gallery"
 date: 2017-10-28T16:50:19-04:00
 draft: false
-url: /gallery.html
+url: gallery.html
 ---
 
 ## Gallery

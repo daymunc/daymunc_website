@@ -5,7 +5,7 @@ draft: false
 menu:
     sidebar:
         pre: "<i class='fa fa-calendar'></i>"
-url: /schedule.html
+url: schedule.html
 ---
 
 ## Conference Schedule

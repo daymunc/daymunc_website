@@ -5,7 +5,7 @@ draft: false
 menu:
     sidebar:
         pre: "<i class='fa fa-file-text'></i>"
-url: /positionpapers.html
+url: positionpapers.html
 ---
 
 {{< jumbo title="Position Paper Submission Procedure and Deadline"

@@ -5,7 +5,7 @@ draft: false
 menu:
     sidebar:
         pre: "<i class='fa fa-hotel'></i>"
-url: /hotel.html
+url: hotel.html
 ---
 
 ## Hotel Reservations
