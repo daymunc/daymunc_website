@@ -14,6 +14,6 @@ relativeURLs = "true"
 	webmaster_email = "matt.piekenbrock@gmail.com"
 
 [params.carousel]
-	url = ["images/ECOSOC.Voting.Fazekas.jpg", "images/HABITAT.ResRevisions.Fazekas.jpg", "images/ECOSOC.Award1.Fazekas.jpg"]
+	url = ["images/minified/ECOSOC.Voting.Fazekas.jpg", "images/minified/HABITAT.ResRevisions.Fazekas.jpg", "images/minified/ECOSOC.Award1.Fazekas.jpg"]
 	caption = ["", "", ""]
 
