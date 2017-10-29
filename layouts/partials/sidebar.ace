@@ -9,11 +9,11 @@ ul.nav.navbar-nav.navbar-collapse role="navigation"
             | &nbsp; {{ .Name }}
         ul.list-group.navbar-nav.collapse.multi-collapse.show id={{ .Name }}
           {{ range .Children }}
-            a.list-group-item.list-group-item-action href={{ .URL | relURL }} {{ .Name }}
+            a.list-group-item.list-group-item-action href={{ .URL }} {{ .Name }}
           {{ end }}
       {{ else if .Name }}
         li.nav-item
-          a.list-group-item.list-group-item-action href={{ .URL | relURL }}
+          a.list-group-item.list-group-item-action href={{ .URL }}
             {{ .Pre }}
             span &nbsp; {{ .Name }}
       {{ end }}

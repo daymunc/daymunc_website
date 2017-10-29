@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DAYMUNC</title>
-    <link>/committees/</link>
+    <link>daymunc.github.io/daymunc_website/committees/</link>
     <description>Recent content on DAYMUNC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Oct 2017 15:48:42 -0400</lastBuildDate>
     
-	<atom:link href="/committees/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="daymunc.github.io/daymunc_website/committees/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SIMSEC</title>
-      <link>/committees/simsec/</link>
+      <link>daymunc.github.io/daymunc_website/committees/simsec/</link>
       <pubDate>Sun, 15 Oct 2017 15:48:42 -0400</pubDate>
       
-      <guid>/committees/simsec/</guid>
+      <guid>daymunc.github.io/daymunc_website/committees/simsec/</guid>
       <description>UNESCO Committee Topics:
 Committee Documents: Background Guide for DAYMUNC is available here
 Staff: If you are interested in applying for a staff position for DAYMUNC, please contact the Secretary General.
@@ -25,10 +25,10 @@ strong Example Position Paper:&amp;nbsp;</description>
     
     <item>
       <title>UNESCO</title>
-      <link>/committees/unesco/</link>
+      <link>daymunc.github.io/daymunc_website/committees/unesco/</link>
       <pubDate>Sun, 15 Oct 2017 15:48:42 -0400</pubDate>
       
-      <guid>/committees/unesco/</guid>
+      <guid>daymunc.github.io/daymunc_website/committees/unesco/</guid>
       <description>UNESCO Committee Topics:
 Committee Documents: Background Guide for DAYMUNC is available here
 Staff: If you are interested in applying for a staff position for DAYMUNC, please contact the Secretary General.
