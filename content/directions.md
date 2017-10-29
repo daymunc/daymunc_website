@@ -5,7 +5,6 @@ draft: false
 menu:
     sidebar:
         pre: "<i class='fa fa-map'></i>"
-url: /directions.html
 ---
 
 ## Getting to DAYMUNC

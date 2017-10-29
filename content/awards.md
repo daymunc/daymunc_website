@@ -5,7 +5,6 @@ draft: false
 menu:
     sidebar:
         pre: "<i class='fa fa-trophy'></i>"
-url: /awards.html
 ---
 
 ## DAYMUNC Award Guidelines
