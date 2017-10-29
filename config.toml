@@ -1,8 +1,9 @@
-baseURL = "daymunc.github.io/daymunc_website/"
+baseURL = "/"
 languageCode = "en-us"
 title = "DAYMUNC"
 sectionPagesMenu = "sidebar"
 publishDir = "docs"
+relativeURLs = "true"
 
 [params.variables]
 	numeral = "XXV"
