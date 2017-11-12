@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/procedures.html</loc>
+    <loc>/procedures/</loc>
     <lastmod>2017-10-28T16:55:55-04:00</lastmod>
   </url>
   
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>/attend.html</loc>
+    <loc>/attend/</loc>
     <lastmod>2017-10-15T13:34:25-04:00</lastmod>
   </url>
   
@@ -68,12 +68,12 @@
   </url>
   
   <url>
-    <loc>/contact.html</loc>
+    <loc>/contact/</loc>
     <lastmod>2017-10-14T11:06:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/country.html</loc>
+    <loc>/country/</loc>
     <lastmod>2017-10-14T11:06:57-04:00</lastmod>
   </url>
   
