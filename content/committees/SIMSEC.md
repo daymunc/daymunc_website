@@ -19,4 +19,4 @@ Background Guide for DAYMUNC is available here
 
 If you are interested in applying for a staff position for DAYMUNC, please contact the Secretary General.
 
-[Example Position Paper](resources/rules_of_procedure.pdf)
+[Example Position Paper](/resources/rules_of_procedure.pdf)
