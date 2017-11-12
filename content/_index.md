@@ -6,7 +6,7 @@ type: page
 menu:
   sidebar:
     pre: "<i class='fa fa-home'></i>"
-    weight: 11
+    weight: 12
 
 ---
 ## Dayton Model United Nations Conference

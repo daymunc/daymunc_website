@@ -6,7 +6,7 @@ type: page
 menu:
   sidebar:
     pre: "<i class='fa fa-map'></i>"
-    weight: 5
+    weight: 7
 
 ---
 ## Getting to DAYMUNC
