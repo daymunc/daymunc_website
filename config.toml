@@ -1,7 +1,7 @@
 baseURL = "/"
+canonifyurls = "true"
 languageCode = "en-us"
 publishDir = "public"
-canonifyurls = "true"
 sectionPagesMenu = "sidebar"
 title = "DAYMUNC"
 [params.carousel]
