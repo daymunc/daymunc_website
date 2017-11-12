@@ -5,7 +5,7 @@ type: page
 menu:
   sidebar:
     pre: "<i class='fa fa-globe'></i>"
-    weight: 8
+    weight: 6
 
 ---
 ## DAYMUNC Country Assignments
