@@ -1,14 +1,15 @@
 ---
-title: "Attend Daymunc"
-date: 2017-10-15T13:34:25-04:00
-draft: false
-menu:
-    sidebar:
-        pre: "<i class='fa fa-university'></i>"
-identifier: "about"
+title: Attend Daymunc
+date: 2017-10-15 13:34:25 -0400
+identifier: about
 url: attend.html
----
+type: page
+menu:
+  sidebar:
+    pre: "<i class='fa fa-university'></i>"
+    weight: 10
 
+---
 ## Attendance Information
 ---
 If you are interested in attending DAYMUNC {{< variables numeral >}}, email the Secretary General at

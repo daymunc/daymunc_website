@@ -1,13 +1,14 @@
 ---
-title: "Conference Schedule"
-date: 2017-10-22T16:57:24-04:00
-draft: false
-menu:
-    sidebar:
-        pre: "<i class='fa fa-calendar'></i>"
+title: Conference Schedule
+date: 2017-10-22 16:57:24 -0400
 url: schedule.html
----
+type: page
+menu:
+  sidebar:
+    pre: "<i class='fa fa-calendar'></i>"
+    weight: 1
 
+---
 ## Conference Schedule
 ---
 Conference will be held: __{{< variables daymunc_date >}}__

@@ -1,13 +1,14 @@
 ---
-title: "Position Papers"
-date: 2017-10-22T16:57:24-04:00
-draft: false
-menu:
-    sidebar:
-        pre: "<i class='fa fa-file-text'></i>"
+title: Position Papers
+date: 2017-10-22 16:57:24 -0400
 url: positionpapers.html
----
+type: page
+menu:
+  sidebar:
+    pre: "<i class='fa fa-file-text'></i>"
+    weight: 3
 
+---
 {{< jumbo title="Position Paper Submission Procedure and Deadline"
           content="The DAYMUNC papers must be submitted in WORD Document, but not in a PDF file by the date assigned. The deadline for position papers is January 27, 2016 by MIDNIGHT. Your submission email must contain the following: Subject Line in the form of: [Committee] Position Paper for [Country] - [School]. Body of email must contain Committee Name, Country Name, School, and Delegate's name. The position paper file, attached as either a Microsoft Word (.doc) or Rich Text Format (.rtf) file." >}}
 

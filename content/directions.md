@@ -1,13 +1,14 @@
 ---
-title: "Directions"
-date: 2017-10-22T16:57:24-04:00
-draft: false
-menu:
-    sidebar:
-        pre: "<i class='fa fa-map'></i>"
+title: Directions
+date: 2017-10-22 16:57:24 -0400
 url: directions.html
----
+type: page
+menu:
+  sidebar:
+    pre: "<i class='fa fa-map'></i>"
+    weight: 5
 
+---
 ## Getting to DAYMUNC
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: "UNESCO"
-date: 2017-10-15T15:48:42-04:00
-draft: false
+title: UNESCO
+date: 2017-10-15 15:48:42 -0400
 menu:
-    sidebar:
-        parent: committee
-        identifier: UNESCO
-        name: UNESCO
+  sidebar:
+    parent: committee
+    identifier: UNESCO
+    weight: 12
+
 ---
 ## UNESCO
 ---

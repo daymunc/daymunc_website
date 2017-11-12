@@ -1,13 +1,14 @@
 ---
-title: "Hotel"
-date: 2017-10-28T16:52:00-04:00
-draft: false
-menu:
-    sidebar:
-        pre: "<i class='fa fa-hotel'></i>"
+title: Hotel
+date: 2017-10-28 16:52:00 -0400
 url: hotel.html
----
+type: page
+menu:
+  sidebar:
+    pre: "<i class='fa fa-hotel'></i>"
+    weight: 4
 
+---
 ## Hotel Reservations
 ---
 Once again this year we have reserved rooms at the Marriott University of Dayton near the University of Dayton campus.
