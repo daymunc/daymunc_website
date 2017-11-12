@@ -1,13 +1,13 @@
 ---
-title: "Resolution Guide"
-date: 2017-10-22T16:57:24-04:00
-draft: false
-menu:
-    sidebar:
-        pre: "<i class='fa fa-info-circle'></i>"
+title: Resolution Guide
+date: 2017-10-22 16:57:24 -0400
 url: resolutions.html
----
+type: page
+menu:
+  sidebar:
+    pre: "<i class='fa fa-info-circle'></i>"
 
+---
 ## Resolution Guide
 ---
 
