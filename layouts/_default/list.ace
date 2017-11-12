@@ -1,4 +1,0 @@
-= content main
-  .container.py-3
-    article
-      {{ .Content }}
