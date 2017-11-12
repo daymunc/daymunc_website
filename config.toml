@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "DAYMUNC"
 sectionPagesMenu = "sidebar"
-publishDir = "docs"
+publishDir = "public"
 relativeURLs = "true"
 
 [params.variables]

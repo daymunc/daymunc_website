@@ -5,10 +5,9 @@ menu:
   sidebar:
     parent: committee
     identifier: SIMSEC
-
 ---
 ## SIMSEC
-
+---
 Committee Topics:
 
 Committee Documents:

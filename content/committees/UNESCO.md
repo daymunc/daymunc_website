@@ -8,17 +8,13 @@ menu:
         identifier: UNESCO
         name: UNESCO
 ---
-
 ## UNESCO
+---
 Committee Topics:
-
 
 Committee Documents:
     Background Guide for DAYMUNC is available here
 
 ### Staff:
 
-
 If you are interested in applying for a staff position for DAYMUNC, please contact the Secretary General.
-
-strong Example Position Paper:&nbsp;
