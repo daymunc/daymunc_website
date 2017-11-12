@@ -1,7 +1,6 @@
 ---
 title: Country Assignments
 date: 2017-10-14 11:06:57 -0400
-url: country.html
 type: page
 menu:
   sidebar:

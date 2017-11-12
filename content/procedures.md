@@ -1,7 +1,6 @@
 ---
 title: Procedures
 date: 2017-10-28 16:55:55 -0400
-url: procedures.html
 type: page
 menu:
   sidebar:

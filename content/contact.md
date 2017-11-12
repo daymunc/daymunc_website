@@ -1,7 +1,6 @@
 ---
 title: Contact
 date: 2017-10-14 11:06:57 -0400
-url: contact.html
 type: page
 menu:
   sidebar:

@@ -1,7 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
 publishDir = "public"
-relativeURLs = "true"
 canonifyurls = "true"
 sectionPagesMenu = "sidebar"
 title = "DAYMUNC"

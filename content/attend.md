@@ -2,7 +2,6 @@
 title: Attend Daymunc
 date: 2017-10-15 13:34:25 -0400
 identifier: about
-url: attend.html
 type: page
 menu:
   sidebar:
