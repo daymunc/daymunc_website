@@ -5,7 +5,7 @@ type: page
 menu:
   sidebar:
     pre: "<i class='fa fa-calendar'></i>"
-    weight: 4
+    weight: 3
 
 ---
 ## Conference Schedule
