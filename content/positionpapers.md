@@ -6,7 +6,7 @@ type: page
 menu:
   sidebar:
     pre: "<i class='fa fa-file-text'></i>"
-    weight: 4
+    weight: 6
 
 ---
 {{< jumbo title="Position Paper Submission Procedure and Deadline"

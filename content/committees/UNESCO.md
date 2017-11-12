@@ -5,7 +5,7 @@ menu:
   sidebar:
     parent: committee
     identifier: UNESCO
-    weight: 13
+    weight: 8
 
 ---
 ## UNESCO

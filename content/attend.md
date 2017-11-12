@@ -6,7 +6,7 @@ type: page
 menu:
   sidebar:
     pre: "<i class='fa fa-university'></i>"
-    weight: 11
+    weight: 2
 
 ---
 ## Attendance Information

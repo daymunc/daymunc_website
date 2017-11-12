@@ -6,7 +6,7 @@ type: page
 menu:
   sidebar:
     pre: "<i class='fa fa-info-circle'></i>"
-    weight: 3
+    weight: 5
 
 ---
 ## Resolution Guide
