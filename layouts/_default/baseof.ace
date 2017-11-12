@@ -13,7 +13,7 @@ html lang=en-us
     .container-fluid
       div.row.row-offcanvas.row-offcanvas-left.flex-nowrap
         // Navbar / Sidebar
-        aside#sidebar.col-md-2.px-0.sidebar-offcanvas.border
+        aside#sidebar.col-md-2.px-0.sidebar-offcanvas.border.border-top-0
           = include partials/sidebar.html .
         // Main Content
         main.col-md-10.main.p-0 role=main

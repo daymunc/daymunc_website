@@ -4,6 +4,7 @@ title = "DAYMUNC"
 sectionPagesMenu = "sidebar"
 publishDir = "public"
 relativeURLs = "true"
+canonifyurls = "true"
 
 [params.variables]
 	numeral = "XXV"
