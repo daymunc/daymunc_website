@@ -2,8 +2,9 @@ baseURL = "/"
 languageCode = "en-us"
 publishDir = "public"
 relativeURLs = "true"
-<<<<<<< HEAD
 canonifyurls = "true"
+sectionPagesMenu = "sidebar"
+title = "DAYMUNC"
 
 [params.variables]
 	numeral = "XXV"
@@ -13,17 +14,13 @@ canonifyurls = "true"
 	daymunc_date = "Jan. 5, 2018"
 	webmaster_email = "matt.piekenbrock@gmail.com"
 
-=======
-sectionPagesMenu = "sidebar"
-title = "DAYMUNC"
->>>>>>> 43ee3238ff4a44a7ff3d307aa4690c502ffbb3c3
 [params.carousel]
-caption = ["", "", ""]
-url = ["images/minified/ECOSOC.Voting.Fazekas.jpg", "images/minified/HABITAT.ResRevisions.Fazekas.jpg", "images/minified/ECOSOC.Award1.Fazekas.jpg"]
-[params.variables]
-committee_short = ["UNDP", "UNICEF", "SC", "SIMSEC"]
-daymunc_date = "Jan. 5, 2018"
-numeral = "XXV"
-sg_email = "angelicamloyd@gmail.com"
-webmaster_email = "matt.piekenbrock@gmail.com"
-year = "2018"
+	caption = ["", "", ""]
+	url = ["images/minified/ECOSOC.Voting.Fazekas.jpg", "images/minified/HABITAT.ResRevisions.Fazekas.jpg", "images/minified/ECOSOC.Award1.Fazekas.jpg"]
+	[params.variables]
+	committee_short = ["UNDP", "UNICEF", "SC", "SIMSEC"]
+	daymunc_date = "Jan. 5, 2018"
+	numeral = "XXV"
+	sg_email = "angelicamloyd@gmail.com"
+	webmaster_email = "matt.piekenbrock@gmail.com"
+	year = "2018"
