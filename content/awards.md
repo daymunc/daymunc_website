@@ -6,7 +6,7 @@ type: page
 menu:
   sidebar:
     pre: "<i class='fa fa-trophy'></i>"
-    weight: 9
+    weight: 10
 
 ---
 ## DAYMUNC Award Guidelines

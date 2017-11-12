@@ -6,6 +6,8 @@ type: page
 menu:
   sidebar:
     pre: "<i class='fa fa-gavel'></i>"
+    weight: 1
+
 ---
 ## Rules Of Procedure
 ---
