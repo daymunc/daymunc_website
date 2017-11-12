@@ -5,7 +5,7 @@ type: page
 menu:
   sidebar:
     pre: "<i class='fa fa-envelope-o'></i>"
-    weight: 9
+    weight: 14
 
 ---
 ## Contact Information

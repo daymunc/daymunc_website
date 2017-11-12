@@ -6,6 +6,6 @@ menu:
     identifier: committee
     name: Committees
     pre: "<i class='fa fa-double-down'></i>"
-    weight: 5
+    weight: 7
 
 ---
