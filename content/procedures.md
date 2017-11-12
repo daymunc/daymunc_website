@@ -5,7 +5,6 @@ draft: false
 menu:
     sidebar:
         pre: "<i class='fa fa-gavel'></i>"
-url: procedures.html
 ---
 
 ## Rules Of Procedure
