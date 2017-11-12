@@ -1,13 +1,14 @@
 ---
-title: "Awards"
-date: 2017-10-14T11:06:57-04:00
-draft: false
-menu:
-    sidebar:
-        pre: "<i class='fa fa-trophy'></i>"
+title: Awards
+date: 2017-10-14 11:06:57 -0400
 url: awards.html
----
+type: page
+menu:
+  sidebar:
+    pre: "<i class='fa fa-trophy'></i>"
+    weight: 9
 
+---
 ## DAYMUNC Award Guidelines
 ---
 DAYMUNC offers awards to delegates that demonstrate exemplary diplomacy, negotiation and speaking skills, technical research capabilities, and facilitate committee. These awards are for individual delegates only; team awards are not given. An award is also presented for Outstanding Position Paper, which is submitted prior to the conference.

@@ -1,13 +1,14 @@
 ---
-title: "Country Assignments"
-date: 2017-10-14T11:06:57-04:00
-draft: false
-menu:
-    sidebar:
-        pre: "<i class='fa fa-globe'></i>"
+title: Country Assignments
+date: 2017-10-14 11:06:57 -0400
 url: country.html
----
+type: page
+menu:
+  sidebar:
+    pre: "<i class='fa fa-globe'></i>"
+    weight: 6
 
+---
 ## DAYMUNC Country Assignments
 ---
 We are accepting Country Assignments starting November 13th to November 19th (early preference submission). Country Assignments

@@ -1,13 +1,14 @@
 ---
-title: "About DAYMUNC"
-date: 2017-10-15T15:48:42-04:00
-name: "About DAYMUNC"
-draft: false
+title: About DAYMUNC
+date: 2017-10-15 15:48:42 -0400
+name: About DAYMUNC
+type: page
 menu:
-    sidebar:
-        pre: "<i class='fa fa-home'></i>"
----
+  sidebar:
+    pre: "<i class='fa fa-home'></i>"
+    weight: 11
 
+---
 ## Dayton Model United Nations Conference
 ---
 The Dayton Model United Nations Conference (DAYMUNC) is the only American collegiate conference sponsored by a community college. It is open to delegations from all colleges and universities, as well as to non-academic adult groups interested in international affairs.

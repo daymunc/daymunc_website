@@ -1,13 +1,14 @@
 ---
-title: "Contact"
-date: 2017-10-14T11:06:57-04:00
-draft: false
-menu:
-    sidebar:
-        pre: "<i class='fa fa-envelope-o'></i>"
+title: Contact
+date: 2017-10-14 11:06:57 -0400
 url: contact.html
----
+type: page
+menu:
+  sidebar:
+    pre: "<i class='fa fa-envelope-o'></i>"
+    weight: 7
 
+---
 ## Contact Information
 ---
 

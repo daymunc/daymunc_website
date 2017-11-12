@@ -1,10 +1,11 @@
 ---
-title: "Staff"
-date: 2017-10-28T16:58:39-04:00
-draft: true
+title: Staff
+date: 2017-10-28 16:58:39 -0400
 url: staff.html
----
+type: page
+draft: true
 
+---
 ## DAYMUNC Staff Information
 ---
 
