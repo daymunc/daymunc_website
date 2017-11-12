@@ -1,7 +1,6 @@
 ---
 title: Hotel
 date: 2017-10-28 16:52:00 -0400
-url: hotel.html
 type: page
 menu:
   sidebar:

@@ -1,7 +1,6 @@
 ---
 title: Gallery
 date: 2017-10-28 16:50:19 -0400
-url: gallery.html
 type: page
 
 ---

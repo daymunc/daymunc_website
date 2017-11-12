@@ -1,7 +1,6 @@
 ---
 title: Awards
 date: 2017-10-14 11:06:57 -0400
-url: awards.html
 type: page
 menu:
   sidebar:

@@ -1,7 +1,6 @@
 ---
 title: Resolution Guide
 date: 2017-10-22 16:57:24 -0400
-url: resolutions.html
 type: page
 menu:
   sidebar:
