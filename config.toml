@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://daymunc.github.io/daymunc_website/"
 canonifyurls = "true"
 languageCode = "en-us"
 publishDir = "public"
