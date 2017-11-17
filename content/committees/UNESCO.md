@@ -1,5 +1,5 @@
 ---
-title: UNESCO
+title: UNEA
 date: 2017-10-15 15:48:42 -0400
 menu:
   sidebar:
@@ -8,12 +8,18 @@ menu:
     weight: 8
 
 ---
-## UNESCO
+## UNEA
+
 ---
+
 Committee Topics:
 
+I. Restoring the Sustainability of Earth's Oceans, Seas, and Freshwater Ecosystems
+
+II. Protection of the Environment in Areas Susceptible to Displacing Persons
+
 Committee Documents:
-    Background Guide for DAYMUNC is available here
+Background Guide for DAYMUNC is available here
 
 ### Staff:
 
