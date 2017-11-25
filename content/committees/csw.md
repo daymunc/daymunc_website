@@ -1,8 +1,11 @@
-+++
-date = "2017-11-17T13:24:32+00:00"
-title = "CSW"
-
-+++
+---
+title: "CSW"
+date: "2017-11-17T13:24:32+00:00"
+menu:
+  sidebar:
+    parent: committee
+    identifier: CSW
+---
 ## CSW
 
 ---
