@@ -1,6 +1,6 @@
 ---
+title: SC
 date: "2017-11-17T13:27:32+00:00"
-title: "SC"
 menu:
   sidebar:
     parent: committee

@@ -6,7 +6,6 @@ menu:
     parent: committee
     identifier: SIMSEC
     weight: 9
-
 ---
 ## SIMSEC
 ---
