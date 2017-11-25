@@ -5,7 +5,8 @@ menu:
   sidebar:
     parent: committee
     identifier: SIMSEC
-    weight: 9
+    weight: 10
+
 ---
 ## SIMSEC
 ---

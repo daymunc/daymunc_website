@@ -5,6 +5,8 @@ menu:
   sidebar:
     parent: committee
     identifier: CSW
+    weight: 8
+
 ---
 ## CSW
 
