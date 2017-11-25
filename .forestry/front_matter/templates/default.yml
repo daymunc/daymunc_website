@@ -1,7 +1,4 @@
 ---
-pages:
-- committees/sc.md
-- committees/csw.md
 hide_body: false
 fields:
 - name: title

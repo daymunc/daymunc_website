@@ -10,8 +10,8 @@ url = ["images/minified/ECOSOC.Voting.Fazekas.jpg", "images/minified/HABITAT.Res
 [params.variables]
 committee_short = ["UNEA", "CSW", "SC", "SIMSEC"]
 daymunc_date = "Feb. 2-3, 2018"
-position_paper_deadline = "January 27, 2018"
 numeral = "XXV"
+position_paper_deadline = "January 27, 2018"
 sg_email = "secgen.daymunc@gmail.com"
 webmaster_email = "matt.piekenbrock@gmail.com"
 year = "2018"
