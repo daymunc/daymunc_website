@@ -5,7 +5,7 @@ menu:
   sidebar:
     parent: committee
     identifier: SC
-    weight: 9
+    weight: 10
 
 ---
 ## Security Council

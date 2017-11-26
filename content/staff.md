@@ -5,7 +5,7 @@ url: staff.html
 type: page
 menu:
   sidebar:
-    weight: 17
+    weight: 16
 
 ---
 ## DAYMUNC Staff Information
