@@ -1,6 +1,6 @@
 ---
 title: CSW
-date: 2017-11-17T13:24:32+00:00
+date: 2017-11-17 13:24:32 +0000
 menu:
   sidebar:
     parent: committee
