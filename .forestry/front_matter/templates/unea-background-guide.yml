@@ -10,7 +10,7 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: 2017-11-26 02:02:00 -0500
+  default: 2017-11-26 07:02:00 +0000
 - name: type
   label: Type
   type: text

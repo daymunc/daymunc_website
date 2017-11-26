@@ -16,6 +16,6 @@ sg_email = "secgen.daymunc@gmail.com"
 webmaster_email = "matt.piekenbrock@gmail.com"
 year = "2018"
 [sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
