@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DAYMUNC</title>
-    <link>https://daymunc.github.io/daymunc_website/committees/</link>
+    <link>https://daymunc.org/committees/</link>
     <description>Recent content on DAYMUNC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Oct 2017 15:48:42 -0400</lastBuildDate>
     
-	<atom:link href="https://daymunc.github.io/daymunc_website/committees/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://daymunc.org/committees/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SC</title>
-      <link>https://daymunc.github.io/daymunc_website/committees/sc/</link>
+      <link>https://daymunc.org/committees/sc/</link>
       <pubDate>Fri, 17 Nov 2017 13:27:32 +0000</pubDate>
       
-      <guid>https://daymunc.github.io/daymunc_website/committees/sc/</guid>
+      <guid>https://daymunc.org/committees/sc/</guid>
       <description>Security Council Committee Topics:
 I. Proliferation of Small Arms and Light Weapons (SALW) and its Role in Conflict in the Middle East
 II. Securing Critical Infrastructure to Enhance Cybersecurity Capabilities
@@ -27,10 +27,10 @@ Staff: If you are interested in applying for a staff position for DAYMUNC, pleas
     
     <item>
       <title>CSW</title>
-      <link>https://daymunc.github.io/daymunc_website/committees/csw/</link>
+      <link>https://daymunc.org/committees/csw/</link>
       <pubDate>Fri, 17 Nov 2017 13:24:32 +0000</pubDate>
       
-      <guid>https://daymunc.github.io/daymunc_website/committees/csw/</guid>
+      <guid>https://daymunc.org/committees/csw/</guid>
       <description>CSW Committee Topics:
 I. The Empowerment of Rural Women in the HIV/AIDS Epidemic
 II. Addressing Access to Healthcare for Refugee and Migrant Women and Girls
@@ -41,10 +41,10 @@ Staff: If you are interested in applying for a staff position for DAYMUNC, pleas
     
     <item>
       <title>SIMSEC</title>
-      <link>https://daymunc.github.io/daymunc_website/committees/simsec/</link>
+      <link>https://daymunc.org/committees/simsec/</link>
       <pubDate>Sun, 15 Oct 2017 15:48:42 -0400</pubDate>
       
-      <guid>https://daymunc.github.io/daymunc_website/committees/simsec/</guid>
+      <guid>https://daymunc.org/committees/simsec/</guid>
       <description>SIMSEC Committee Topics:
 Committee Documents:
 Background Guide for DAYMUNC is available here
@@ -53,10 +53,10 @@ Staff: If you are interested in applying for a staff position for DAYMUNC, pleas
     
     <item>
       <title>UNEA</title>
-      <link>https://daymunc.github.io/daymunc_website/committees/unea/</link>
+      <link>https://daymunc.org/committees/unea/</link>
       <pubDate>Sun, 15 Oct 2017 15:48:42 -0400</pubDate>
       
-      <guid>https://daymunc.github.io/daymunc_website/committees/unea/</guid>
+      <guid>https://daymunc.org/committees/unea/</guid>
       <description>UNEA Committee Topics:
 I. Restoring the Sustainability of Earth&amp;rsquo;s Oceans, Seas, and Freshwater Ecosystems
 II. Protection of the Environment in Areas Susceptible to Displacing Persons
