@@ -1,6 +1,8 @@
 ---
 title: UNEA
 date: 2017-10-15 15:48:42 -0400
+type: file upload
+unea_background_guide: "/uploads/2017/11/26/UNEA_BG2018.pdf"
 menu:
   sidebar:
     parent: committee
@@ -18,8 +20,7 @@ I. Restoring the Sustainability of Earth's Oceans, Seas, and Freshwater Ecosyste
 
 II. Protection of the Environment in Areas Susceptible to Displacing Persons
 
-Committee Documents:
-Background Guide for DAYMUNC is available here
+Committee Documents: Background Guide for DAYMUNC is available here 
 
 ### Staff:
 
