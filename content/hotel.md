@@ -5,7 +5,7 @@ type: page
 menu:
   sidebar:
     pre: "<i class='fa fa-hotel'></i>"
-    weight: 13
+    weight: 14
 
 ---
 ## HOTEL RESERVATIONS

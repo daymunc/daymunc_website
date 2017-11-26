@@ -7,7 +7,7 @@ menu:
   sidebar:
     parent: committee
     identifier: UNESCO
-    weight: 9
+    weight: 10
 
 ---
 ## UNEA
