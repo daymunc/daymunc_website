@@ -29,12 +29,11 @@ If you are interested in working as staff for DAYMUNC, please contact the Secret
 
 | Date |  |
 | :---: | :---: |
-| October 26, 2015 | First Draft of Background Guides Due |
-| November 14, 2015 | Final Background Guides Due |
-| November 8, 2015 | Staff Training Session |
-| January 23, 2016 | One Day Simulation |
-| January 22, 2016 | Position Papers DUE by Midnight |
-| Feb. 5-6 | DAYMUNC XXIII |
+| November 26, 2017 | Background Guides Online |
+| December 15, 2017 | Staff Training Session |
+| January 20, 2018 | One Day Simulation |
+| January 26, 2018 | Position Papers DUE by Midnight |
+| February 2-3, 2018 | DAYMUNC XXV |
 
 We try to emulate the rules and practices of NMUN.
 DAYMUNC is above all a learning conference - we are here to have fun, learn something about international affairs and UN procedure, and to meet and socialize with students from other schools.
