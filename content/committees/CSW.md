@@ -5,7 +5,7 @@ menu:
   sidebar:
     parent: committee
     identifier: CSW
-    weight: 9
+    weight: 8
 
 ---
 ## CSW
@@ -20,7 +20,7 @@ II. Addressing Access to Healthcare for Refugee and Migrant Women and Girls
 
 Committee Documents:
 
-Background Guide for DAYMUNC is available here
+Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/preview/97f45e79-12cf-4f8c-83ff-f8c0b23690b1 "CSW_BG2018").
 
 ### Staff:
 
