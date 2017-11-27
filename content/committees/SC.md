@@ -5,7 +5,7 @@ menu:
   sidebar:
     parent: committee
     identifier: SC
-    weight: 11
+    weight: 10
 
 ---
 ## Security Council
@@ -20,7 +20,7 @@ II. Securing Critical Infrastructure to Enhance Cybersecurity Capabilities
 
 Committee Documents:
 
-Background Guide for DAYMUNC is available here
+Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/preview/6fd107eb-e201-40a9-8326-8b76b129e4c3 "SC_BG2018").
 
 ### Staff:
 
