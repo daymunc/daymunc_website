@@ -24,4 +24,10 @@ Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/pre
 
 ### Staff:
 
+Director: Allyson Clark
+
+Chair: Daniel Palmer
+
+Rapporteur: TBD
+
 If you are interested in applying for a staff position for DAYMUNC, please contact the Secretary General.
