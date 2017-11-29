@@ -7,7 +7,7 @@ menu:
   sidebar:
     parent: committee
     identifier: UNESCO
-    weight: 10
+    weight: 9
 
 ---
 ## UNEA
@@ -23,5 +23,11 @@ II. Protection of the Environment in Areas Susceptible to Displacing Persons
 Committee Documents: Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/preview/abf7e61b-0e22-446d-bb3b-9e26a76b9baf "UNEA Background Guide").
 
 ### Staff:
+
+Director: Porter Lyons
+
+Chair: Csongor Bajnoczki
+
+Rapporteur: TBD
 
 If you are interested in applying for a staff position for DAYMUNC, please contact the Secretary General.
