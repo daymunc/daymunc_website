@@ -5,17 +5,25 @@ menu:
   sidebar:
     parent: committee
     identifier: SIMSEC
-    weight: 12
+    weight: 11
 
 ---
 ## SIMSEC
+
 ---
+
 Committee Topics:
 
 Committee Documents:
 
-Background Guide for DAYMUNC is available here
+There is no background guide provided for the Simulated Security Council - should you have questions concerning this type of committee, please contact the Secretary General.
 
 ### Staff:
+
+Director: Alex Elkins
+
+Chair: TBD
+
+Rapporteur: TBD
 
 If you are interested in applying for a staff position for DAYMUNC, please contact the Secretary General.
