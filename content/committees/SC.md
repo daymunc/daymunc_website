@@ -20,7 +20,7 @@ II. Securing Critical Infrastructure to Enhance Cybersecurity Capabilities
 
 Committee Documents:
 
-Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/preview/6fd107eb-e201-40a9-8326-8b76b129e4c3 "SC_BG2018").
+Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/preview/500ef810-b471-4e65-8529-229b45b3c03b "SC_BG2018").
 
 ### Staff:
 
