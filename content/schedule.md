@@ -9,7 +9,9 @@ menu:
 
 ---
 ## Conference Schedule
----
-Conference will be held: __{{< variables daymunc_date >}}__
 
-The schedule for DAYMUNC {{< variables year >}} can be found [here](resources/DAYMUNC_2017/DAYMUNC XXIV Schedule.pdf).
+---
+
+Conference will be held: **{{< variables daymunc_date >}}**
+
+The schedule for DAYMUNC {{< variables year >}} can be found [here](https://files.acrobat.com/a/preview/19494616-ef3b-4292-a83e-d060c78354b8).
