@@ -28,6 +28,6 @@ Director: Porter Lyons
 
 Chair: Csongor Bajnoczki
 
-Rapporteur: TBD
+Rapporteur: Tess Golonka
 
 If you are interested in applying for a staff position for DAYMUNC, please contact the Secretary General.
