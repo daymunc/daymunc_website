@@ -24,6 +24,6 @@ Director: Alex Elkins
 
 Chair: TBD
 
-Rapporteur: TBD
+Rapporteur: Connor Morrow
 
 If you are interested in applying for a staff position for DAYMUNC, please contact the Secretary General.
