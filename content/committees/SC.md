@@ -26,7 +26,7 @@ Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/pre
 
 Director: Allyson Clark
 
-Chair: Daniel Palmer
+Chair: Alex Oxner
 
 Rapporteur: TBD
 
