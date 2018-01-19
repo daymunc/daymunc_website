@@ -12,7 +12,7 @@ menu:
 
 ---
 
-Committee Topics:
+Committee Topics: Although there is no background guide, focus the bulk of your research on recent events and relations in Pacific Asia.
 
 Committee Documents:
 
