@@ -26,7 +26,7 @@ Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/pre
 
 Director: Jessica Loving
 
-Chair: TBD
+Chair: Megan Jablonski
 
 Rapporteur: TBD
 
