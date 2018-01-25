@@ -34,7 +34,7 @@ There is no background guide provided for the Simulated Security Council - shoul
 
 Director: Alex Elkins
 
-Chair: TBD
+Chair: Kaitlynrose Bicek
 
 Rapporteur: Connor Morrow
 
