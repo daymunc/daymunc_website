@@ -9,6 +9,7 @@ menu:
 
 ---
 ## Getting to DAYMUNC
+
 ---
 
 The {{< variables year >}} Dayton Model United Nations Conference (DAYMUNC {{< variables numeral >}}) will be held at:
@@ -19,8 +20,10 @@ The {{< variables year >}} Dayton Model United Nations Conference (DAYMUNC {{< v
 
 Conveniently located in downtown Dayton, Sinclair Center can be reached quickly and easily from nearby hotels and highways.
 
-- Take the Third Street exit 53A off of I-75 (northbound or southbound)
-- Turn right on Perry Street
-- Turn right on Fourth Street, then right again into the underground parking garage beneath Sinclair Center
+* Take the Third Street exit 53A off of I-75 (northbound or southbound)
+* Turn right on Perry Street
+* Turn right on Fourth Street, then right again into the underground parking garage beneath Sinclair Center
 
 Delegates may park in the Sinclair student garage ($5 per day) or use metered parking (free on weekends) around the College campus.
+
+![](/uploads/2018/02/01/DAYMUNC Campus Map SPRING 2018.jpg)
