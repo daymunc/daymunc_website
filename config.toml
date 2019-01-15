@@ -8,8 +8,8 @@ title = "DAYMUNC"
 caption = ["", "", ""]
 url = ["images/minified/ECOSOC.Voting.Fazekas.jpg", "images/minified/HABITAT.ResRevisions.Fazekas.jpg", "images/minified/ECOSOC.Award1.Fazekas.jpg"]
 [params.variables]
-committee_short = ["UNEA", "CSW", "SC", "SIMSEC"]
-daymunc_date = "Feb. 2-3, 2018"
+committee_short = ["UNICEF", "CCPCJ", "SC", "SIMSEC"]
+daymunc_date = "Feb. 1-2, 2019"
 numeral = "XXV"
 position_paper_deadline = "Friday, Jan. 26 at 11:59 pm"
 sg_email = "secgen.daymunc@gmail.com"
