@@ -19,5 +19,5 @@ fields:
   hidden: false
   default: true
 pages:
-- content/alumni.md
 - content/committees/UNEA.md
+- content/alumni.md
