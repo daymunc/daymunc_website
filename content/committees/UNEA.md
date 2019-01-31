@@ -10,7 +10,7 @@ menu:
     weight: 9
 
 ---
-## UNEA
+## UNICEF
 
 ***
 
@@ -26,8 +26,8 @@ Committee Documents: Background Guide for DAYMUNC is available [here](https://fi
 
 Director: Angie Lloyd
 
-Chair: Csongor Bajnoczki
+Chair: 
 
-Rapporteur: Tess Golonka
+Rapporteur: TBD
 
 If you are interested in applying for a staff position for DAYMUNC, please contact the Secretary General.
