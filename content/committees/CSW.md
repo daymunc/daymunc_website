@@ -8,25 +8,25 @@ menu:
     weight: 8
 
 ---
-## CSW
+## CCPCJ
 
----
+***
 
 Committee Topics:
 
-I. The Empowerment of Rural Women in the HIV/AIDS Epidemic
+I. Criminal Justice Reform to Ensure Equitable and Fair Implementation of the Law and Adherence to Human Rights Standards  
 
-II. Addressing Access to Healthcare for Refugee and Migrant Women and Girls
+II. Criminal Justice Mechanisms to Ensure Accountability and Combat Conflict-Related Sexual Violence
 
 Committee Documents:
 
-Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/preview/97f45e79-12cf-4f8c-83ff-f8c0b23690b1 "CSW_BG2018").
+Background Guide for DAYMUNC is available [here](uploads/2019 DAYMUNC UNICEF BG_Rev.2_12.03.18.pdf "CSW_BG2018").
 
 ### Staff:
 
-Director: Jessica Loving
+Director: Sam Pugh
 
-Chair: Megan Jablonski
+Chair: Rahima Hamadi
 
 Rapporteur: TBD
 
