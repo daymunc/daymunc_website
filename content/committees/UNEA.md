@@ -1,6 +1,6 @@
 ---
-title: UNEA
-date: 2017-10-15 15:48:42 -0400
+title: UNICEF
+date: 2017-10-15 19:48:42 +0000
 type: default
 unea_background_guide: "/uploads/2017/11/26/UNEA_BG2018.pdf"
 menu:
@@ -12,19 +12,19 @@ menu:
 ---
 ## UNEA
 
----
+***
 
 Committee Topics:
 
-I. Restoring the Sustainability of Earth's Oceans, Seas, and Freshwater Ecosystems
+I. Combating Child Marriage  
 
-II. Protection of the Environment in Areas Susceptible to Displacing Persons
+II. Abandonment of Female Genital Mutilation/Cutting  
 
 Committee Documents: Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/preview/abf7e61b-0e22-446d-bb3b-9e26a76b9baf "UNEA Background Guide").
 
 ### Staff:
 
-Director: Porter Lyons
+Director: Angie Lloyd
 
 Chair: Csongor Bajnoczki
 
