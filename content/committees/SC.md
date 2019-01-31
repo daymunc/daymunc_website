@@ -10,23 +10,23 @@ menu:
 ---
 ## Security Council
 
----
+***
 
 Committee Topics:
 
-I. Proliferation of Small Arms and Light Weapons (SALW) and its Role in Conflict in the Middle East
+I.The Famine in Yemen  
 
-II. Securing Critical Infrastructure to Enhance Cybersecurity Capabilities
+II. The Rise of Political Violence affecting Free Expression and the Threat towards Journalists  
 
 Committee Documents:
 
-Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/preview/500ef810-b471-4e65-8529-229b45b3c03b "SC_BG2018").
+Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/preview/500ef810-b471-4e65-8529-229b45b3c03b "SC_BG2018") .
 
 ### Staff:
 
-Director: Allyson Clark
+Director: Christian Cooper
 
-Chair: Alex Oxner
+Chair: 
 
 Rapporteur: TBD
 
