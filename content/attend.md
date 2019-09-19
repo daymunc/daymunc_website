@@ -1,6 +1,6 @@
 ---
 title: Attend Daymunc
-date: 2017-10-15 13:34:25 -0400
+date: 2017-10-15T17:34:25.000+00:00
 identifier: about
 type: page
 menu:
@@ -11,9 +11,9 @@ menu:
 ---
 ## Attendance Information
 
----
+***
 
-If you are interested in attending DAYMUNC {{< variables numeral >}}, email the Secretary General at secgen.daymunc@gmail.com.
+If you are interested in attending DAYMUNC {{< 2020>}}, email the Secretary General at secgen.daymunc@gmail.com.
 
 ### DAYMUNC registration fee:
 
