@@ -1,6 +1,6 @@
 ---
 title: Conference Schedule
-date: 2017-10-22 20:57:24 +0000
+date: 2017-10-22T20:57:24.000+00:00
 type: page
 menu:
   sidebar:
@@ -12,6 +12,8 @@ menu:
 
 ***
 
-Conference will be held: **{{< variables daymunc_date >}}**
+Conference will be held: 
 
-The schedule for DAYMUNC {{< variables year >}} can be found [here](https://app.forestry.io/sites/rov2tpwt7s0b7w/body-media//uploads/2019/01/29/Revised Agenda.pdf).
+February 7th-8th, 2020
+
+The schedule for DAYMUNC {{< variables year >}} can be found [here](https://files.acrobat.com/a/preview/19494616-ef3b-4292-a83e-d060c78354b8).
