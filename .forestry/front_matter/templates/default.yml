@@ -1,7 +1,6 @@
 ---
 label: default
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -19,5 +18,5 @@ fields:
   hidden: false
   default: true
 pages:
-- content/alumni.md
 - content/committees/UNEA.md
+- content/alumni.md

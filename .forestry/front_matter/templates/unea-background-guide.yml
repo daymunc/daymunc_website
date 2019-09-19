@@ -1,7 +1,6 @@
 ---
 label: UNEA Background Guide
 hide_body: true
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -12,7 +11,7 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: 2017-11-26 07:02:00 +0000
+  default: '2017-11-26T07:02:00.000+00:00'
 - name: type
   label: Type
   type: text
