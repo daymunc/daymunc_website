@@ -136,6 +136,12 @@
   </url>
   
   <url>
+    <loc>https://daymunc.org/apply-to-staff-at-daymunc/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://daymunc.org/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
