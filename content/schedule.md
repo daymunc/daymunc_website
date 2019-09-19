@@ -16,4 +16,4 @@ Conference will be held:
 
 February 7th-8th, 2020
 
-The schedule for DAYMUNC {{< variables year >}} can be found [here](https://files.acrobat.com/a/preview/19494616-ef3b-4292-a83e-d060c78354b8).
+The schedule for DAYMUNC {{< variables year >}} will be uploaded at a later date.
