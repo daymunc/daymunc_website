@@ -20,7 +20,7 @@ I. Increasing Women's Participation and Integrated Strategies for Post-Conflict 
 
 II. The Situation in Syria
 
-Committee Documents: Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/preview/abf7e61b-0e22-446d-bb3b-9e26a76b9baf "UNEA Background Guide").
+Background Guide will be available Sunday, November 17, 2019.
 
 ### Staff:
 

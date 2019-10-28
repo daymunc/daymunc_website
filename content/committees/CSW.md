@@ -20,7 +20,7 @@ II. Promoting Food Security and Public Health in Yemen
 
 Committee Documents:
 
-Background Guide for DAYMUNC is available [here](uploads/2019 DAYMUNC UNICEF BG_Rev.2_12.03.18.pdf "CSW_BG2018").
+Background Guide will be available Sunday, November 17, 2019.
 
 ### Staff:
 
