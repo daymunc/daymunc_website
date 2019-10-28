@@ -20,7 +20,7 @@ II. Protecting Women from Violent Extremism and Violent Non-State Actors
 
 Committee Documents:
 
-Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/preview/500ef810-b471-4e65-8529-229b45b3c03b "SC_BG2018") .
+Background Guide will be available Sunday, November 17, 2019.
 
 ### Staff:
 
