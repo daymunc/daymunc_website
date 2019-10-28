@@ -1,6 +1,6 @@
 ---
 title: Position Papers
-date: 2017-10-22 16:57:24 -0400
+date: 2017-10-22T20:57:24.000+00:00
 type: page
 menu:
   sidebar:
@@ -8,9 +8,9 @@ menu:
     weight: 6
 
 ---
-{{< jumbo title="Position Paper Submission Procedure and Deadline" content="The DAYMUNC papers must be submitted in WORD Document, but not in a PDF file by the date assigned. The deadline for position papers is Jan. 26, 2018 by 11:59 pm. Your submission email must contain the following: Subject Line in the form of: \[Committee\] Position Paper for \[Country\] - \[School\]. Body of email must contain Committee Name, Country Name, School, and Delegate's name. The position paper file, attached as either a Microsoft Word (.doc) or Rich Text Format (.rtf) file." >}}
+{{< jumbo title="Position Paper Submission Procedure and Deadline" content="The DAYMUNC papers must be submitted in both WORD and PDF by the date assigned. The deadline for position papers is Friday, January 24, 2020 by 11:59 pm. Your submission email must contain the following: Subject Line in the form of: \[Committee\] Position Paper for \[Country\] - \[School\]. Body of email must contain Committee Name, Country Name, School, and Delegate's name. The position paper file, attached as either a Microsoft Word (.doc) or Rich Text Format (.rtf) file and PDF (.pdf)" >}}
 
----
+***
 
 ### Purpose
 
@@ -20,7 +20,14 @@ Delegates are strongly encouraged to prepare and submit position papers for the 
 
 ### Style Details
 
-Margins should be set to one inch all around and use 10 point Times Roman font and single spacing. Position papers must not exceed one side of one sheet of paper for all topics. In the top margin (Word header), please list your name and school on the first line and the committee and country on the second line. It is not necessary to leave any blank lines--feel free to cram in everything you can as you really have very little space to work with. Make every word count! Each topic must begin on a new line and start with the topic title followed by a colon and space. Footnotes and citations are not necessary in position papers.
+* Length must not exceed one page.
+* Margins must be set at 1 inch or 2.54 cm. for the whole paper.
+* Font must be Arial, 10 pt. size.
+* Justify the text for your paragraphs so the left and right margins both have straight edges.
+* Country and committee name must be clearly labeled on the first page.
+* Agenda topics must be clearly labeled in separate sections.
+
+  #### DAYMUNC Position Paper style has changed to more closely match that of the NMUN Conference. Please visit [NMUN Position Paper Guide](https://www.nmun.org/assets/documents/NMUNPPGuide.pdf) for questions.
 
 ### Suggestions
 
@@ -37,4 +44,4 @@ A variety of research aids are provided on this website in the resource area in 
 
 ### Submission of Position Papers
 
-Papers can be e-mailed as attachments to {{< variables sg_email >}}. A Word document (.doc) is required - please no PDFs or other formats.
+Papers can be e-mailed as attachments to {{< variables sg_email >}}. A Word document (.doc) and PDF file (.pdf) is required.
