@@ -1,5 +1,5 @@
 ---
-date: 2017-11-17 13:27:32 +0000
+date: 2017-11-17T13:27:32.000+00:00
 title: SC
 menu:
   sidebar:
@@ -14,9 +14,9 @@ menu:
 
 Committee Topics:
 
-I.The Famine in Yemen  
+I. The Situation of Hong Kong
 
-II. The Rise of Political Violence affecting Free Expression and the Threat towards Journalists  
+II. Protecting Women from Violent Extremism and Violent Non-State Actors
 
 Committee Documents:
 
@@ -26,8 +26,8 @@ Background Guide for DAYMUNC is available [here](https://files.acrobat.com/a/pre
 
 Director: Christian Cooper
 
-Chair: 
+Chair: Caleb Jackson
 
-Rapporteur: TBD
+Rapporteur: Caroline Hoffman
 
 If you are interested in applying for a staff position for DAYMUNC, please contact the Secretary General.
