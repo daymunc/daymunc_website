@@ -16,7 +16,7 @@ menu:
 
 Committee Topics:
 
-I. Increasing Women's Participation and Integrated Strategies for Post-Conflict and Peace-Building and Recovery
+I. Increasing Women's Participation in Integrated Strategies for Post-Conflict  Peace-Building and Recovery
 
 II. The Situation in Syria
 
