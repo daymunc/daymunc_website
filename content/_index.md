@@ -1,6 +1,6 @@
 ---
 title: About DAYMUNC
-date: 2017-10-15 15:48:42 -0400
+date: 2017-10-15T19:48:42.000+00:00
 name: About DAYMUNC
 type: page
 menu:
@@ -11,15 +11,14 @@ menu:
 ---
 ## Dayton Model United Nations Conference
 
----
+***
 
 The Dayton Model United Nations Conference (DAYMUNC) is the only American collegiate conference sponsored by a community college. It is open to delegations from all colleges and universities, as well as to non-academic adult groups interested in international affairs.
 We offer state-of-the-art Internet and Web access, an experienced staff, and a comfortable setting at Sinclair's David H. Ponitz Center.
 Model UN conferences, held all over the world, are a popular and fun way for students to learn about international affairs.
 The Sinclair event is one of only two conferences in Ohio, and the only one anywhere sponsored by a community college.
 
-At DAYMUNC, students from college and universities in Ohio, Pennsylvania, Indiana, Kentucky, Michigan, and West Virginia will represent more than 60 countries in four committees.
-After months of research and preparation, delegates will discuss a wide range of world issues and try to negotiate solutions.
+At DAYMUNC, students from college and universities in Ohio, Pennsylvania, Indiana, Kentucky, Michigan, and West Virginia will represent more than 60 countries in three committees. After months of research and preparation, delegates will discuss a wide range of world issues and try to negotiate solutions.
 
 We also try to emulate the rules and practices of the National Model United Nations.
 
