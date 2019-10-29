@@ -27,7 +27,7 @@ Delegates are strongly encouraged to prepare and submit position papers for the 
 * Country and committee name must be clearly labeled on the first page.
 * Agenda topics must be clearly labeled in separate sections.
 
-  #### DAYMUNC Position Paper style has changed to more closely match that of the NMUN Conference. Please visit [NMUN Position Paper Guide](https://www.nmun.org/assets/documents/NMUNPPGuide.pdf) for questions.
+  DAYMUNC Position Paper style has changed to more closely match that of the NMUN Conference. Please visit [NMUN Position Paper Guide](https://www.nmun.org/assets/documents/NMUNPPGuide.pdf) for questions.
 
 ### Suggestions
 
