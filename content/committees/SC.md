@@ -14,7 +14,7 @@ menu:
 
 Committee Topics:
 
-I. The Situation of Hong Kong
+I. The Situation in Hong Kong
 
 II. Protecting Women from Violent Extremism and Violent Non-State Actors
 
