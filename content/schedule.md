@@ -12,8 +12,8 @@ menu:
 
 ***
 
-Conference will be held: 
+Conference will be held:
 
 February 7th-8th, 2020
 
-The schedule for DAYMUNC {{< variables year >}} will be uploaded at a later date.
+The schedule for DAYMUNC XXVII will be uploaded at a later date.
