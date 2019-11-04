@@ -8,13 +8,13 @@ title = "DAYMUNC"
 caption = ["", "", ""]
 url = ["images/minified/ECOSOC.Voting.Fazekas.jpg", "images/minified/HABITAT.ResRevisions.Fazekas.jpg", "images/minified/ECOSOC.Award1.Fazekas.jpg"]
 [params.variables]
-committee_short = ["UNICEF", "CCPCJ", "SC", "SIMSEC"]
+committee_short = ["GA3", "PBC", "SC"]
 daymunc_date = "Feb. 7-8, 2020"
 numeral = "MMXX"
 position_paper_deadline = "Friday, Jan. 26 at 11:59 pm"
 sg_email = "secgen.daymunc@gmail.com"
 webmaster_email = "matt.piekenbrock@gmail.com"
-year = "2018"
+year = "2020"
 [sitemap]
 changefreq = "monthly"
 filename = "sitemap.xml"
