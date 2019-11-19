@@ -21,3 +21,9 @@ fields:
   name: unea_background_guide
   label: UNEA Background Guide
   default: "/uploads/2017/11/26/UNEA_BG2018.pdf"
+- name: here
+  type: file
+  config:
+    maxSize: 250
+  label: here
+  default: "/uploads/2019/11/19/GA3 BBG DAYMUNC XXVII Final .docx"
