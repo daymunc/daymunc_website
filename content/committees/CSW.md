@@ -20,7 +20,7 @@ II. Promoting Food Security and Public Health in Yemen
 
 Committee Documents:
 
-Background Guide will be available Sunday, November 17, 2019.
+Background Guide is available here (/uploads/2019/11/19/GA3 BBG DAYMUNC XXVII Final .docx "GA3 BBG DAYMUNC XXVII Final .docx").
 
 ### Staff:
 
