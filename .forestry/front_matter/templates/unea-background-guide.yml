@@ -27,3 +27,5 @@ fields:
     maxSize: 250
   label: here
   default: "/uploads/2019/11/19/GA3 BBG DAYMUNC XXVII Final .docx"
+pages:
+- content/committees/CSW.md

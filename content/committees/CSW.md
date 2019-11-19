@@ -1,6 +1,9 @@
 ---
 title: GA3
 date: 2017-11-17T13:24:32.000+00:00
+type: file upload
+here: "/uploads/2019/11/19/GA3 BBG DAYMUNC XXVII Final .docx"
+unea_background_guide: ''
 menu:
   sidebar:
     parent: committee
@@ -20,7 +23,7 @@ II. Promoting Food Security and Public Health in Yemen
 
 Committee Documents:
 
-Background Guide is available [here]((/uploads/2019/11/19/GA3 BBG DAYMUNC XXVII Final .docx "GA3 BBG DAYMUNC XXVII Final .docx")).
+Background Guide is available .
 
 ### Staff:
 
