@@ -10,7 +10,7 @@ url = ["images/minified/ECOSOC.Voting.Fazekas.jpg", "images/minified/HABITAT.Res
 [params.variables]
 committee_short = ["GA3", "PBC", "SC"]
 daymunc_date = "Feb. 7-8, 2020"
-numeral = "MMXX"
+numeral = "XXVII"
 position_paper_deadline = "Friday, Jan. 26 at 11:59 pm"
 sg_email = "secgen.daymunc@gmail.com"
 webmaster_email = "matt.piekenbrock@gmail.com"
