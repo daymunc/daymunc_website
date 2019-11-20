@@ -20,7 +20,7 @@ II. Protecting Women from Violent Extremism and Violent Non-State Actors
 
 Committee Documents:
 
-Background Guide will be available Sunday, November 17, 2019.
+Background Guide is available 
 
 ### Staff:
 

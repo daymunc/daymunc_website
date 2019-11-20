@@ -20,7 +20,7 @@ I. Increasing Women's Participation in Integrated Strategies for Post-Conflict  
 
 II. The Situation in Syria
 
-Background Guide will be available Sunday, November 17, 2019.
+Background Guide is available 
 
 ### Staff:
 
