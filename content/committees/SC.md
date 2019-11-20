@@ -20,7 +20,7 @@ II. Protecting Women from Violent Extremism and Violent Non-State Actors
 
 Committee Documents:
 
-Background Guide is available 
+Background Guide is available [here](https://app.forestry.io/sites/schnikjiruuqyq/body-media//uploads/2019/11/20/SC Background Guide - DAYMUNC XXVII Final.pdf)
 
 ### Staff:
 
