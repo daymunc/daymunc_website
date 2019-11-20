@@ -20,7 +20,7 @@ I. Increasing Women's Participation in Peacebuilding and Recovery Strategies in 
 
 II. The Situation in Syria
 
-Background Guide will be available soon
+Background Guide will be available soon 
 
 ### Staff:
 
