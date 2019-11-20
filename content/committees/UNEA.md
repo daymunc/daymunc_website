@@ -20,7 +20,7 @@ I. Increasing Women's Participation in Integrated Strategies for Post-Conflict  
 
 II. The Situation in Syria
 
-Background Guide is available 
+Background Guide will be available soon
 
 ### Staff:
 
