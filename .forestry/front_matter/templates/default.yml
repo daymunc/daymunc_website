@@ -18,5 +18,5 @@ fields:
   hidden: false
   default: true
 pages:
-- content/apply-to-staff-at-daymunc.md
 - content/committees/UNEA.md
+- content/apply-to-staff-at-daymunc.md

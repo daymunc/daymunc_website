@@ -24,7 +24,7 @@ Background Guide will be available Sunday, November 17, 2019.
 
 ### Staff:
 
-Director: Angie Lloyd
+Director: Angie Loyd
 
 Chair: Rahima Hamadi
 
