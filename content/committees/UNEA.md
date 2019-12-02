@@ -20,7 +20,7 @@ I. Increasing Women's Participation in Peacebuilding and Recovery Strategies in 
 
 II. The Situation in Syria
 
-Background Guide will be available soon 
+Background Guide available [here](https://app.forestry.io/sites/schnikjiruuqyq/body-media//uploads/2019/12/02/PBC BGG DAYMUNC XXVII Final .pdf)
 
 ### Staff:
 
