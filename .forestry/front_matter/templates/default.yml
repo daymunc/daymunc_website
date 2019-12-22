@@ -18,6 +18,6 @@ fields:
   hidden: false
   default: true
 pages:
-- content/committees/UNEA.md
-- content/committees/CSW.md
 - content/apply-to-staff-at-daymunc.md
+- content/committees/CSW.md
+- content/committees/UNEA.md
