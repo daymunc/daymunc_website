@@ -11,8 +11,6 @@ menu:
 ---
 ## Attendance Information
 
-***
-
 Our website has moved!
 
 Please visit our new website at
