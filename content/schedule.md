@@ -12,8 +12,8 @@ menu:
 
 ***
 
-Conference will be held:
+Our website has moved!
 
-February 7th-8th, 2020
+Please visit our new website at
 
-The schedule for DAYMUNC XXVII will be uploaded at a later date.
+[https://www.sinclair.edu/academics/divisions/lcs/pls/daymunc/](https://www.sinclair.edu/academics/divisions/lcs/pls/daymunc/ "https://www.sinclair.edu/academics/divisions/lcs/pls/daymunc/")
